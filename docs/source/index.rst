@@ -17,6 +17,7 @@ true outputs within a user-defined error :math:`\alpha`.
    tutorials
    regression
    classification
+   dag_explanation
    object_detection
    anomaly_detection
    api
